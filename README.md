@@ -88,7 +88,7 @@ While running the patch update, ensure that there are no hardware breakpoints se
 
 ## Presentation Video
 
-https://drive.google.com/file/d/1JudSKkRnc5fNcGtYRVtBAcMILmWfy48V/view
+https://github.com/GentlemanAMS/HERA-FPB/blob/master/video.mp4
 
 ## References
 
